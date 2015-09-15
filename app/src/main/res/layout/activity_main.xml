@@ -29,26 +29,26 @@
             android:elevation="8dp"
             android:background="@color/colorAccent"/>
 
-        <View
-            android:layout_marginTop="16dp"
-            android:layout_width="match_parent"
-            android:layout_height="2dp"
-            android:elevation="8dp"
-            android:background="@color/colorAccent"/>
+        <!--<View-->
+            <!--android:layout_marginTop="16dp"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="2dp"-->
+            <!--android:elevation="8dp"-->
+            <!--android:background="@color/colorAccent"/>-->
 
-        <View
-            android:layout_marginTop="16dp"
-            android:layout_width="match_parent"
-            android:layout_height="4dp"
-            android:elevation="8dp"
-            android:background="@color/colorAccent"/>
+        <!--<View-->
+            <!--android:layout_marginTop="16dp"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="4dp"-->
+            <!--android:elevation="8dp"-->
+            <!--android:background="@color/colorAccent"/>-->
 
-        <View
-            android:layout_marginTop="16dp"
-            android:layout_width="match_parent"
-            android:layout_height="64dp"
-            android:elevation="8dp"
-            android:background="@color/colorAccent"/>
+        <!--<View-->
+            <!--android:layout_marginTop="16dp"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="64dp"-->
+            <!--android:elevation="8dp"-->
+            <!--android:background="@color/colorAccent"/>-->
     </LinearLayout>
 
 </LinearLayout>
